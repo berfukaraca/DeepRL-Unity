@@ -1,7 +1,7 @@
 # DeepRL_Unity
 
 Prosthetic vision for the blind: Testing trained computer agents for phosphene vision in a realistic environment 
-  * training a Deep Reinforcement Learning agent to test the performance in particular tests such as navigation and obstacle avoidance in a realistic virtual environment developed in Unity.
+  * training a Deep Reinforcement Learning agent to test the performance in particular tasks such as navigation and obstacle avoidance in a realistic virtual environment developed in Unity.
 
 Thanks to Burcu Kucukoglu, Sam Danen, and Jaap de Ruyter van Steveninck for their contribution to the codes.
 
