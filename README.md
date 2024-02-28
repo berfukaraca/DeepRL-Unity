@@ -44,4 +44,4 @@ Thanks to Burcu Kucukoglu, Sam Danen, and Jaap de Ruyter van Steveninck for thei
    * Random Agent (Agent choose actions randomly)
 
 
-- For dateails, please refer to my thesis project https://drive.google.com/file/d/1BpSDmnCU93v66h5bXSf1Cv3wfhMBIjIc/view
+- For details, please refer to my thesis project https://drive.google.com/file/d/1BpSDmnCU93v66h5bXSf1Cv3wfhMBIjIc/view
